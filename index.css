@@ -32,11 +32,22 @@
     width: 100%;
     height: 250px;
     background-color: blue;
+    text-align: center;
+}
+
+#bc {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#bp {
+    margin-top: 10px;
+    border-radius: 10px;
 }
 
 #versus {
     width: 100%;
-    height: 80px;
+    height: 70px;
     background-color:purple;
     text-align: center;
     font-size: 45px;
